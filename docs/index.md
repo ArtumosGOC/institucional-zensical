@@ -48,24 +48,24 @@ Além disso a **Codaqui** também reúne outras comunidades e fornece o apoio pa
 
 <div class="grid cards" markdown>
 
--   :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __DevParaná__
+-   [![Logo do DevParaná](/assets/devpr.png){ width="85" style="display:block; margin-left:auto; margin-right:auto;" }](https://github.com/DeveloperParana)
+
+    ---
+    
+    :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __DevParaná__
+
+-  [![Logo da CamposTech](/assets/campostech.svg){ width="200" style="display:block; margin-left:auto; margin-right:auto;" }](https://www.instagram.com/campostechpg)  
+ 
+    ---
+
+    :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __CamposTech__
+    
+-  [![Logo da Elas o código](/assets/elasnocodigo.svg){ width="83" style="display:block; margin-left:auto; margin-right:auto;" }](https://www.instagram.com/elasnocodigo)
 
     ---
 
-    [![Logo do DevParaná](https://avatars.githubusercontent.com/u/15199454?s=200&v=4){ width="100" }](https://github.com/DeveloperParana)
-
--   :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __CamposTech__
-
-    ---
-
-    [![Logo da CamposTech](/assets/campostech.svg){ width="100" }](https://www.instagram.com/campostechpg)
-
-
--   :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __ElasnoCódigo__
-
-    ---
-
-    [![Logo da Elas o código](/assets/elasnocodigo.svg){ width="100" }](https://www.instagram.com/elasnocodigo)
+    
+    :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __ElasnoCódigo__
 
 
 </div>
@@ -74,16 +74,20 @@ Além disso a **Codaqui** também reúne outras comunidades e fornece o apoio pa
 
 <div class="grid cards" markdown>
 
--   :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle } __WhatsApp__
+-   [![Logo do WhatsApp](/assets/whatsapp.png){ width="97" style="display:block; margin-left:auto; margin-right:auto;" }](https://discord.com/invite/xuTtxqCPpz)
 
     ---
 
-    [![Logo do WhatsApp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamvOqJHyNAZ_NUjZcXXTVaF3HCd17B-Su_Q&usqp=CAU)](https://chat.whatsapp.com/IvzONDeglw55ySBD71F4Up)
+    
+    :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __Whatsapp__
 
--   :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle } __Discord__
+
+
+-   [![Logo do Discord](/assets/discord.png){ width="97" style="display:block; margin-left:auto; margin-right:auto;" }](https://discord.com/invite/xuTtxqCPpz)   
 
     ---
+    
+    :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __Discord__
 
-    [![Logo do Discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg)](https://discord.com/invite/xuTtxqCPpz)
 
 </div>
