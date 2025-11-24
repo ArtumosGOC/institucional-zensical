@@ -38,8 +38,8 @@ institucional/
 │   ├── quero/                 # Páginas de participação
 │   ├── assets/                # Recursos visuais
 │   └── *.md                   # Páginas principais
-├── mkdocs.yml                 # Configuração principal do MkDocs
-├── requirements.txt           # Dependências Python
+├── mkdocs.yml                 # Configuração principal do MkDocs // REMOVIDO
+├── requirements.txt           # Dependências Python // REMOVIDO
 ├── README.md                  # Documentação geral
 ├── DEVELOPMENT.md             # Instruções de desenvolvimento
 └── CNAME                      # Configuração de domínio customizado
