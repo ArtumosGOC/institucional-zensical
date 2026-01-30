@@ -21,13 +21,13 @@ nav = [
 
   { Trilhas = "trilhas.md" },
   { Projetos = "projetos.md" },
-  #{ Blog = [
-  #    { "Blogs"         = "blog/index.md" },
-  #    { "Curiosidades"  = "blog/posts/curiosidade/" },
-  #    { "Institucional" = "blog/posts/institucional/" },
-  #    { "Projetos"      = "blog/posts/projetos/" },
-  #    { "Tutoriais"     = "blog/posts/tutoriais/" },
-  #]},
+  { Blog = [
+      { "Blogs"         = "blog/index.md" },
+      { "Curiosidades"  = "blog/posts/curiosidade/" },
+      { "Institucional" = "blog/posts/institucional/" },
+      { "Projetos"      = "blog/posts/projetos/" },
+      { "Tutoriais"     = "blog/posts/tutoriais/" },
+  ]},
   { Contato = "contact.md" },
 ]
 
