@@ -48,19 +48,19 @@ Além disso a **Codaqui** também reúne outras comunidades e fornece o apoio pa
 
 <div class="grid cards" markdown>
 
--   [![Logo do DevParaná](/assets/devpr.png){ width="85" style="display:block; margin-left:auto; margin-right:auto;" }](https://github.com/DeveloperParana)
+-   [![Logo do DevParaná](assets/devpr.png){ width="85" style="display:block; margin-left:auto; margin-right:auto;" }](https://github.com/DeveloperParana)
 
     ---
     
     :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __DevParaná__
 
--  [![Logo da CamposTech](/assets/campostech.svg){ width="200" style="display:block; margin-left:auto; margin-right:auto;" }](https://www.instagram.com/campostechpg)  
+-  [![Logo da CamposTech](assets/campostech.svg){ width="200" style="display:block; margin-left:auto; margin-right:auto;" }](https://www.instagram.com/campostechpg)  
  
     ---
 
     :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __CamposTech__
     
--  [![Logo da Elas o código](/assets/elasnocodigo.svg){ width="83" style="display:block; margin-left:auto; margin-right:auto;" }](https://www.instagram.com/elasnocodigo)
+-  [![Logo da Elas o código](assets/elasnocodigo.svg){ width="83" style="display:block; margin-left:auto; margin-right:auto;" }](https://www.instagram.com/elasnocodigo)
 
     ---
 
@@ -74,7 +74,7 @@ Além disso a **Codaqui** também reúne outras comunidades e fornece o apoio pa
 
 <div class="grid cards" markdown>
 
--   [![Logo do WhatsApp](/assets/whatsapp.png){ width="188" style="display:block; margin-left:auto; margin-right:auto;" }](https://discord.com/invite/xuTtxqCPpz)
+-   [![Logo do WhatsApp](assets/whatsapp.png){ width="188" style="display:block; margin-left:auto; margin-right:auto;" }](https://discord.com/invite/xuTtxqCPpz)
 
     ---
 
@@ -83,7 +83,7 @@ Além disso a **Codaqui** também reúne outras comunidades e fornece o apoio pa
 
 
 
--   [![Logo do Discord](/assets/discord.png){ width="97" style="display:block; margin-left:auto; margin-right:auto;" }](https://discord.com/invite/xuTtxqCPpz)   
+-   [![Logo do Discord](assets/discord.png){ width="97" style="display:block; margin-left:auto; margin-right:auto;" }](https://discord.com/invite/xuTtxqCPpz)   
 
     ---
     
