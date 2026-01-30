@@ -74,7 +74,7 @@ Além disso a **Codaqui** também reúne outras comunidades e fornece o apoio pa
 
 <div class="grid cards" markdown>
 
--   [![Logo do WhatsApp](/assets/whatsapp.png){ width="97" style="display:block; margin-left:auto; margin-right:auto;" }](https://discord.com/invite/xuTtxqCPpz)
+-   [![Logo do WhatsApp](/assets/whatsapp.png){ width="188" style="display:block; margin-left:auto; margin-right:auto;" }](https://discord.com/invite/xuTtxqCPpz)
 
     ---
 
