@@ -23,10 +23,10 @@ nav = [
   { Projetos = "projetos.md" },
   { Blog = [
       { "Blogs"         = "blog/index.md" },
-      { "Curiosidades"  = "blog/posts/curiosidade/" },
-      { "Institucional" = "blog/posts/institucional/" },
-      { "Projetos"      = "blog/posts/projetos/" },
-      { "Tutoriais"     = "blog/posts/tutoriais/" },
+      { "Curiosidades"  = "blog/posts/curiosidades.md" },
+      { "Institucional" = "blog/posts/institucional/*" },
+      { "Projetos"      = "blog/posts/projetos/*" },
+      { "Tutoriais"     = "blog/posts/tutoriais/*" },
   ]},
   { Contato = "contact.md" },
 ]
