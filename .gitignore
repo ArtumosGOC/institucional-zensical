@@ -10,3 +10,4 @@ venv/*
 
 # Cache
 .cache
+docs/blog.md
