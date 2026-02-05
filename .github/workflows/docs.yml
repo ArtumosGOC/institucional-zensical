@@ -37,7 +37,7 @@ jobs:
       - name: Gerate Posts blog
         run: |
              pip install pyyaml markdown
-             rm ./docs/blogs.md
+             rm docs/blogs.md
              python gerate_posts.py
 
       - name: Build site
