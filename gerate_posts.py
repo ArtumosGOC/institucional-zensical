@@ -8,7 +8,7 @@ import markdown
 IMAGE_MAX_WIDTH = "720px"
 DOCS_DIR = "./docs"
 POSTS_DIR = os.path.join(DOCS_DIR, "blog", "posts")
-OUTPUT_FILE = os.path.join(DOCS_DIR, "blogs.md")
+OUTPUT_FILE = os.path.join(DOCS_DIR, "blog.md")
 AUTHORS_FILE = os.path.join(DOCS_DIR, "blog", ".authors.yml")
 MORE_TAG = "<!-- more -->"
 
