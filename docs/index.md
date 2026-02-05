@@ -69,25 +69,3 @@ Além disso a **Codaqui** também reúne outras comunidades e fornece o apoio pa
 
 
 </div>
-
-## :material-google-circles-communities: Links Importantes
-
-<div class="grid cards" markdown>
-
--   [![Logo do WhatsApp](assets/whatsapp.png){ width="188" style="display:block; margin-left:auto; margin-right:auto;" }](https://discord.com/invite/xuTtxqCPpz)
-
-    ---
-
-    
-    :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __Whatsapp__
-
-
-
--   [![Logo do Discord](assets/discord.png){ width="97" style="display:block; margin-left:auto; margin-right:auto;" }](https://discord.com/invite/xuTtxqCPpz)   
-
-    ---
-    
-    :fontawesome-brands-square-font-awesome-stroke:{ .lg .middle  } __Discord__
-
-
-</div>
