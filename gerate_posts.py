@@ -47,19 +47,12 @@ def process_images(html):
     def repl(match):
         attrs = match.group(1)
 
-        if(__debug__):
-            attrs = re.sub(
-                r'src=["\']img/',
-                'src="posts/institucional/img/',
-                attrs
-           )
-        else:
-            attrs = re.sub(
+        attrs = re.sub(
                 r'src=["\']img/',
                 'src="institucional-zensical/posts/institucional/img/',
                 attrs
             )
-
+        
         attrs = re.sub(r'style=["\'][^"\']*["\']', '', attrs).strip()
 
         style = f"max-width:{IMAGE_MAX_WIDTH}; width:36%;"
