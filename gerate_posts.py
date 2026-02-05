@@ -49,7 +49,7 @@ def process_images(html):
 
         attrs = re.sub(
                 r'src=["\']img/',
-                'src="institucional-zensical/posts/institucional/img/',
+                'src="/posts/institucional/img/',
                 attrs
             )
         
