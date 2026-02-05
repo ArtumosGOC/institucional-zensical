@@ -34,6 +34,11 @@ jobs:
       - name: Install Zensical
         run: pip install zensical
 
+      - name: Gerate Posts blog
+        run: |
+             pip install pyyaml markdown
+             python gerate_posts.py
+
       - name: Build site
         run: zensical build --clean
 
