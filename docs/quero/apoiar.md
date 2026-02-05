@@ -1,4 +1,5 @@
 ---
+icon: lucide/hand-coins
 hide:
   - toc
 ---

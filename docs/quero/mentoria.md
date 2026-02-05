@@ -1,4 +1,5 @@
 ---
+icon: lucide/handshake
 hide:
   - toc
 ---

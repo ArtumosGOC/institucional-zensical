@@ -1,4 +1,5 @@
 ---
+icon: lucide/graduation-cap
 hide:
 ---
 # Quero Estudar!
