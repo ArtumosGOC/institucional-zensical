@@ -1057,6 +1057,4 @@ Nesta aula, você aprendeu sobre:
 
 Na próxima aula, exploraremos Programação Orientada a Objetos em Python, um paradigma fundamental para organizar código em aplicações complexas.
 
-[Avance para a próxima aula →](//trilhas/python/page-13)
-
-[← Voltar para Iteradores e Geradores](//trilhas/python/page-11)
+:lucide-arrow-left-from-line: [Voltar para Iteradores e Geradores](page-11) | [Avance para a próxima aula](page-13) :lucide-arrow-right-from-line:

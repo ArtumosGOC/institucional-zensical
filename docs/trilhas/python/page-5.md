@@ -613,6 +613,4 @@ Nesta aula, você aprendeu sobre:
 
 Na próxima aula, exploraremos a programação orientada a objetos em Python, incluindo classes, objetos, herança e polimorfismo.
 
-[Avance para a próxima aula →](/trilhas/python/page-6)
-
-[← Voltar para Coleções](/trilhas/python/page-4)
+:lucide-arrow-left-from-line: [Voltar para Coleções](page-4) | [Avance para a próxima aula](page-6) :lucide-arrow-right-from-line:

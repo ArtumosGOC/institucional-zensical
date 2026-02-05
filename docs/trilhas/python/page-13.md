@@ -916,6 +916,4 @@ Nesta aula, você aprendeu os fundamentos da Programação Orientada a Objetos e
 
 Na próxima aula, vamos explorar o conceito de herança e polimorfismo, expandindo nossos conhecimentos sobre Programação Orientada a Objetos e aprendendo como criar hierarquias de classes.
 
-[Avance para a próxima aula →](//trilhas/python/page-14)
-
-[← Voltar para Decoradores](//trilhas/python/page-12)
+:lucide-arrow-left-from-line: [Voltar para Decoradores](page-12) | [Avance para a próxima aula](page-14) :lucide-arrow-right-from-line:

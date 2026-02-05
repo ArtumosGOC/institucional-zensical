@@ -690,6 +690,4 @@ Nesta aula, você aprendeu sobre:
 
 Na próxima aula, exploraremos como trabalhar com arquivos em Python, incluindo leitura, escrita e manipulação de diferentes formatos.
 
-[Avance para a próxima aula →](//trilhas/python/page-10)
-
-[← Voltar para Debugging e Tratamento de Erros](//trilhas/python/page-8)
+ :lucide-arrow-left-from-line: [Voltar para Debugging e Tratamento de Erros](page-8) | [Avance para a próxima aula](page-10)  :lucide-arrow-right-from-line:

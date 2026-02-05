@@ -551,6 +551,4 @@ Nesta aula, você aprendeu sobre:
 
 Na próxima aula, exploraremos como trabalhar com módulos em Python, que permitem organizar código em componentes reutilizáveis.
 
-[Avance para a próxima aula →](//trilhas/python/page-9)
-
-[← Voltar para Expressões Lambdas e Funções Integradas](//trilhas/python/page-7)
+:lucide-arrow-left-from-line: [Voltar para Expressões Lambdas e Funções Integradas](page-7) | [Avance para a próxima aula](page-9) :lucide-arrow-right-from-line:

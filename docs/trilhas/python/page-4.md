@@ -528,6 +528,4 @@ Nesta aula, você aprendeu sobre:
 
 Na próxima aula, exploraremos funções em Python, que nos permitem organizar código em blocos reutilizáveis.
 
-[Avance para a próxima aula →](/trilhas/python/page-5)
-
-[← Voltar para Estruturas de Repetição](/trilhas/python/page-3)
+:lucide-arrow-left-from-line: [Voltar para Estruturas de Repetição](page-3) | [Avance para a próxima aula](page-5) :lucide-arrow-right-from-line:

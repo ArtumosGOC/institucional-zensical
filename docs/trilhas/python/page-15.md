@@ -1404,6 +1404,6 @@ Nesta aula, você aprendeu sobre testes em Python, incluindo:
 
 Na próxima aula, exploraremos os recursos e atualizações das versões recentes do Python, incluindo novos recursos de sintaxe, módulos da biblioteca padrão e melhorias de desempenho.
 
-[Avance para a próxima aula →](//trilhas/python/page-16)
 
-[← Voltar para Herança e Polimorfismo](//trilhas/python/page-14)
+:lucide-arrow-left-from-line: [Voltar para Herança e Polimorfismo](page-14) | [Avance para a próxima aula](page-16) :lucide-arrow-right-from-line:
+
