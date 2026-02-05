@@ -19,7 +19,7 @@ nav = [
   ]},
 
   { Trilhas = "trilhas.md" },
-  #{ Projetos = "projetos.md" },
+  { Projetos = "projetos.md" },
   { Blog = "blogs.md" },
   #{ Blog = [
       #{ "Blogs"         = "blog/index.md" },
