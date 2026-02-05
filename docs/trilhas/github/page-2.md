@@ -15,3 +15,5 @@ Para saber mais sobre clonagem, leia ["Clonar um repositório"](https://docs.git
 **Committing** e **pushing** são como você pode adicionar as alterações feitas em sua máquina local ao repositório remoto no GitHub. Dessa forma, seu instrutor e/ou colegas de equipe podem ver seu trabalho mais recente quando você estiver pronto para compartilhá-lo. Você pode fazer um commit quando tiver feito alterações em seu projeto que deseja “checkpoint.” Você também pode adicionar uma **mensagem de confirmação** útil para lembrar a si mesmo ou a seus colegas de equipe o trabalho que você fez (por exemplo, "Adicionou um README com informações sobre nosso projeto").
 
 Depois de ter um commit ou vários commits que você está pronto para adicionar ao seu repositório, você pode usar o comando push para adicionar essas alterações ao seu repositório remoto. Committing e pushing pode parecer novo no começo, mas prometemos que você se acostumará 🙂
+
+:lucide-arrow-left-from-line: [Voltar Aula anterior](page-1) | [Avance para a próxima aula](page-3) :lucide-arrow-right-from-line:

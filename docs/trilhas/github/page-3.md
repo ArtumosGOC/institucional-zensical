@@ -56,3 +56,5 @@ Para saber mais sobre como seguir usuários, leia ["Seguindo pessoas"](https://d
 O GitHub Explore é um ótimo lugar para fazer exatamente isso... explorar :smile: Você pode encontrar novos projetos, eventos e desenvolvedores para interagir.
 
 Você pode conferir o site do GitHub Explore [em github.com/explore](https://github.com/explore). Quanto mais você interagir com o GitHub, mais personalizada será sua visualização do Explore.
+
+:lucide-arrow-left-from-line: [Voltar Aula anterior](page-2) | [Avance para a próxima aula](page-4) :lucide-arrow-right-from-line:

@@ -16,3 +16,5 @@
 * ["Gerenciando seu perfil README"](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 
 [Deixe-nos saber o que você gostou ou não gostou sobre o conteúdo deste curso](https://github.com/orgs/codaqui/discussions). O que você gostaria de ver mais? O que seria interessante ou útil para sua jornada de aprendizado?
+
+:lucide-arrow-left-from-line: [Voltar Aula anterior](page-3) | [Avance para a próxima aula](page-5) :lucide-arrow-right-from-line:
