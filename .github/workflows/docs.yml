@@ -23,8 +23,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+     # - name: Setup Pages
+     #   uses: actions/configure-pages@v5
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -34,14 +34,20 @@ jobs:
       - name: Install Zensical
         run: pip install zensical
 
+      - name: Gerate Posts blog
+        run: |
+             pip install pyyaml markdown
+             python gerate_posts.py
+
       - name: Build site
         run: zensical build --clean
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: site
+     # - name: Upload artifact
+     #   uses: actions/upload-pages-artifact@v4
+     #   with:
+     #     path: site
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+     # - name: Deploy to GitHub Pages
+     #   id: deployment
+     #   uses: actions/deploy-pages@v4
+     #  incluindo comentario de teste
