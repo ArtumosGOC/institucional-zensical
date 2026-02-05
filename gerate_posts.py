@@ -50,13 +50,13 @@ def process_images(html):
         if(__debug__):
             attrs = re.sub(
                 r'src=["\']img/',
-                'src="blog/posts/institucional/img/',
+                'src="posts/institucional/img/',
                 attrs
            )
         else:
             attrs = re.sub(
                 r'src=["\']img/',
-                'src="institucional-zensical/blog/posts/institucional/img/',
+                'src="institucional-zensical/posts/institucional/img/',
                 attrs
             )
 
