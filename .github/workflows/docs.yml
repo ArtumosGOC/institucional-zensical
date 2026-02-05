@@ -38,7 +38,7 @@ jobs:
         run: |
              pip install pyyaml markdown
              find . -type f -name "blogs.md" -print -delete || echo "blogs.md não encontrado"
-             python gerate_posts.py
+             python -0 gerate_posts.py
 
       - name: Build site
         run: zensical build --clean

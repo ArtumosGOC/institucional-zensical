@@ -47,11 +47,18 @@ def process_images(html):
     def repl(match):
         attrs = match.group(1)
 
-        attrs = re.sub(
-            r'src=["\']img/',
-            'src="/institucional-zensical/blog/posts/institucional/img/',
-            attrs
-        )
+        if(__debug__):
+            attrs = re.sub(
+                r'src=["\']img/',
+                'src="blog/posts/institucional/img/',
+                attrs
+           )
+        else:
+            attrs = re.sub(
+                r'src=["\']img/',
+                'src="institucional-zensical/blog/posts/institucional/img/',
+                attrs
+            )
 
         attrs = re.sub(r'style=["\'][^"\']*["\']', '', attrs).strip()
 
