@@ -42,11 +42,11 @@ jobs:
       - name: Build site
         run: zensical build --clean
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: site
+     # - name: Upload artifact
+     #   uses: actions/upload-pages-artifact@v4
+     #   with:
+     #     path: site
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+     # - name: Deploy to GitHub Pages
+     #   id: deployment
+     #   uses: actions/deploy-pages@v4
